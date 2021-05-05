@@ -1,0 +1,18 @@
+
+.w3-hover-opacity{
+    padding-top: 10px;
+}
+.vid-content {
+    position: relative;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+     background-color: #343a4075;
+    color: #f1f1f1;
+    width: 100%;
+    /* padding: 20px 35% 40px 10%; */
+    padding: 48px 33% 48px 96px;
+    margin-bottom: .5em;}
+h1{
+    color: lightgoldenrodyellow;
+
+}
